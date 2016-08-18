@@ -1,2 +1,3 @@
-# mesh_layers
-Blender Add-on for manimupulation and visualization of mesh layers
+# Mesh Layers
+
+Blender Add-on for manipulation and visualization of mesh layers.
